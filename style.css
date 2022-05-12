@@ -1,23 +1,17 @@
-.Titulo {
+.titulo {
     font-size: 44px;
     color:blue;
     border-style:solid;
     border-color:red;
     border-radius: 10px;
     border-width: 5px;
-}   
-.formus{
-    color:blue;
-    border: 2px;
 }
-
-*{
-  color:black;
-  
-}
-
-.inicio{
-    color: blue;
+.titulo2 {
+    font-size: 35px;
+    color: #66f;
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 1000pc;
 }
 
 /* Formas de bordes 
