@@ -1,19 +1,46 @@
+body{
+	font: 75% georgia,sans-serif;
+	line-height: 1.88;
+	color: #555753;
+	margin: 0;
+	padding: 0;
+    background-color: #ffffff8a;
+}	
 .titulo {
-    font-size: 44px;
-    color:blue;
-    border-style:solid;
-    border-color:red;
-    border-radius: 10px;
-    border-width: 5px;
+    font-size: 90;
+    color:#fff;
+    background-color: #043263;
+    font: bold 3.4em georgia,sans-serif;
+    padding: 0;
+    margin: 0;
 }
 .titulo2 {
     font-size: 35px;
-    color: #66f;
-    border-style: dashed;
-    border-width: 1px;
-    border-radius: 1000pc;
+    color: #fff;
+    background-color: #043263;
+    padding: 0;
+    margin: 0;
 }
-
+.tinicio{
+	color: #ffffff;
+	font-weight: bold;
+    font-size: 18px;
+	text-decoration:none ;
+}   
+a:hover, a:focus, a:active{
+	text-decoration: underline;	
+	color: rgb(0, 0, 0);
+}
+.tabla{
+    color: #ffffff;
+    background-color: #043263;
+}
+.pie{
+    background-color: #043263;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
 /* Formas de bordes 
     dotted
     dashed
